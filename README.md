@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   blauw/rood (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  responsive (kies uit responsive óf surface plane)
+  surface plane en klein beetje responsive (kies uit responsive óf surface plane)
  
 </details>
 
@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://wieisdemol.avrotros.nl/ 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  hier de naam van de pagina: home pagina  
   <img src="readme-images/wieisdemol-home.png" width="375px" alt="Home pagina van Wie is de mol">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  hier de naam van de pagina: kandidaten pagina  
   <img src="readme-images/wieisdemol-kandidaten.png" width="375px" alt="Kandidaten pagina van Wie is de mol">
  
 </details>
@@ -57,7 +57,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Lijst met je bevindingen die in de test naar voren kwamen: De Wie-is-de-Mol-pagina’s scoren goed op structuur, semantiek en toetsenbordtoegankelijkheid, maar kunnen verbeteren op: Contrasten/kleurgebruik, ondertiteling/transcripten bij video’s, skip-link en meldingen bij nieuwe vensters, donker/licht-modusondersteuning.
 
 </details>
 
@@ -69,10 +69,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-home.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown-nav.png" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -89,26 +89,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Eerste pagina daarvan de HTML opgeschreven. Geen problemen meegehad.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Julia: Geen specifieke vragen, luisteren wat anderen voor vragen hadden.
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  Bij de home-pagina is H1 het logo.
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
 
 </details>
 
@@ -122,26 +114,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  HTML van eerste en tweede pagina gemaakt. Klein beetje begonnen met de basis opbouw van de css. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Julia: Geen specifieke vragen, luisteren wat anderen voor vragen hadden.
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  Echt beginnen met css maken voor de eerste pagina van je website.
 
 </details>
 
@@ -156,7 +139,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
+  Fix als eerste: Alt-teksten toevoegen aan afbeeldingen, Skip-link toevoegen, Contrast optimaliseren op lichte gedeelten.
+  Optioneel, maar sterk aanbevolen: prefers-reduced-motion ondersteunen, Dark/light mode aanbieden.
 </details>
 
 
@@ -169,26 +153,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Css toegevoegd op de eerste pagina, nadenken wat ik op de tweede pagina extra wil toevoegen anders is het te weinig variatie tussen de pagina's.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Julia: Geen specifieke vragen, luisteren wat anderen voor vragen hadden.
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Was maar 1 student assistent, dus de mensen die vragen hadden die lieten het zien op het grote bord. Waardoor je ook goed mee kon kijken naar de vragen en problemen die anderen hadden.
 
 </details>
 
@@ -202,19 +179,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/eigen-widm.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Hamburger menu en interactieve elementen werkend gekregen, nth-of-type geleerd.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/eigen-widm2.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Dark/light mode nog niet volledig gemaakt.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/eigen-widm3.png" width="375px" alt="bummer">
 </details>
 
 
@@ -230,8 +207,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/line-height
+  2. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/flex-wrap
+  3. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/important 
+  4. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor 
+  5. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/content 
+  6. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/::before
+  7. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/::after
+  8. https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame
+  9. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString
+  10. https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement
+  11. https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
+  12. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+  13. ChatGPT prompt: "Op de wie is de mol site heb je dat het getal bedrag veranderd van de huidige pot, wat kan je dan gebruiken in code. Zonder code voor mij te maken"
+  14. School opdrachten via Code Pen
 
 </details>
